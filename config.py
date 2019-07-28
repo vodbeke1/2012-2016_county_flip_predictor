@@ -1,5 +1,5 @@
 """Config file for flask application"""
-
+import joblib
 
 class Development(object):
     NAME="Development"
