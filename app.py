@@ -49,7 +49,7 @@ def predict(find):
 
 def try_int(_str_):
     try:
-        a = int(_str_)
+        int(_str_)
         return True
     except:
         return False
