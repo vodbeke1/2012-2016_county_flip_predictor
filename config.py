@@ -9,7 +9,7 @@ class Development(object):
 
     REDIS_HOST="localhost"
     REDIS_PORT=6379
-    REDIS_PASSWORD="redis1"
+    REDIS_PASSWORD=1206
 
 
 class Production(object):
