@@ -2,7 +2,7 @@ flask==1.1.1
 xgboost==0.82
 numpy==1.16.4
 shap==0.29.3
-redis==3.2.1
+redis==4.5.3
 
 
 
